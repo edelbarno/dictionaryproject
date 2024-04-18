@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: aliceblue;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color:white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color:black;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.results {
+  background-color: aliceblue;
+  margin-top: 20px;
+}
+
+.result-item {
+  padding: 10px;
+  background-color:white;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
